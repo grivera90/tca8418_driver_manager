@@ -1,0 +1,12 @@
+[submodule "components/keyboard_mgr"]
+	path = components/keyboard_mgr
+	url = git@github.com:grivera90/keyboard_mgr.git
+[submodule "components/tca8418_drv"]
+	path = components/tca8418_drv
+	url = git@github.com:grivera90/tca8418_drv.git
+[submodule "components/bsp_nodemcu_esp32s3"]
+	path = components/bsp_nodemcu_esp32s3
+	url = git@github.com:grivera90/bsp_nodemcu_esp32s3.git
+[submodule "components/tca9554_drv"]
+	path = components/tca9554_drv
+	url = git@github.com:grivera90/tca9554_drv.git
