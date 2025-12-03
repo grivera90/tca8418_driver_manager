@@ -8,10 +8,7 @@
 #include <freertos/FreeRTOS.h>
 
 #include "bsp.h"
-#include "freertos/projdefs.h"
 #include "keyboard_mgr.h"
-#include "portmacro.h"
-#include "tca9554_drv.h"
 /******************************************************************************
     Defines and constants
 ******************************************************************************/
